@@ -20,6 +20,7 @@ image:
   caption: ""
   focal_point: Smart
   filename: img_caption.jpg
+  preview_only: true
 url_code: ""
 ---
 ## INTRODUCTION
