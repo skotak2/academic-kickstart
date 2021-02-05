@@ -14,10 +14,12 @@ tags:
 links:
   - url: https://github.com/skotak2/Image-Captioning-With-Visual-Attention-Mechanism
     name: GitHub
+    icon_pack: ai
+    icon: ""
 image:
   caption: ""
   focal_point: Smart
-  filename: ""
+  filename: img_caption.jpg
 url_code: ""
 ---
 ## INTRODUCTION
