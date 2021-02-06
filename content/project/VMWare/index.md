@@ -2,7 +2,7 @@
 title: Customer Engagement At VM Ware
 summary: Analyzed web analytics data of 500+ customers with 700+ variables to improve the conversion rate of visitors to customers. Presented XGBoost model with suggestions to improve it's performance.
 tags:
-- CA
+- Research
 date: "2019-11-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
