@@ -1,28 +1,35 @@
 ---
-slides: example
-url_pdf: ""
 title: Image Captioning With Visual Attention
-summary: An example of using the in-built project page.
-url_video: ""
-date: 2016-04-27T00:00:00Z
-external_link: https://github.com/skotak2/Image-Captioning-With-Visual-Attention-Mechanism
-url_slides: ""
-subtitle: "CNN Encoder - RNN(LSTM & GRU) decoder model for captioning an image
-  with visual attention mechanism. "
+summary: "CNN Encoder - RNN(LSTM & GRU) decoder model for captioning an image with visual attention mechanism. "
 tags:
-  - Deep Learning
-links:
-  - url: https://github.com/skotak2/Image-Captioning-With-Visual-Attention-Mechanism
-    name: GitHub
-    icon_pack: ai
-    icon: ""
-image:
-  caption: ""
-  focal_point: Smart
-  filename: img_caption.jpg
-  preview_only: true
-url_code: ""
----
-## INTRODUCTION
+- Deep Learning
+date: "2020-02-20T00:00:00Z"
 
-The concept of image captioning is novel problem which deals with cognition of image processing, language modelling and recurrent neural networks. Ability to generate descriptions for image has a myriad number of applications across the industry. The social media platforms have enormous amount of need for these kinds of applications where there is huge surge of images which could help draw insights for business and decision-making purposes. The problem is framed with encoder – decoder flow line with recurrent nueral network layers. Further we also capture the image visual attentions and use it for descriptions. We use pretrained models for implementing CNN as the encoder, and further use RNNs (GRU & LSTM) to translate the objects in image to words to frame a natural sentence. Model takes an image I as input and is trained to maximize the likelihood p(W|I) of producing a target sequence of words W = {W1, W2, W3 . . .Wt} where each word Wt comes from a given vocabulary, while W would also have the start and stop tokens for the sentences. The image vectors are generated using CNN with help of pretrained models. Given the existence of context in the caption a BLEU score metric is used to gauge the performance of model.
+# Optional external URL for project (replaces project detail page).
+external_link: "https://github.com/skotak2/Image-Captioning-With-Visual-Attention-Mechanism"
+
+image:
+  caption: 
+  focal_point: Smart
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/iamvippi
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
+---
+
+
+
+
