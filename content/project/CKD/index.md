@@ -1,6 +1,6 @@
 ---
 title: Factors Causing Chronic Kidney Disease
-Identified factors causing chronic kidney disease. Built the predictive model to identify subjects, who could be potentially affected by CKD. Interpretation of the statistical model to estimate the impact of each factor leading to CKD.
+summary: Identified factors causing chronic kidney disease. Built the predictive model to identify subjects, who could be potentially affected by CKD. Interpretation of the statistical model to estimate the impact of each factor leading to CKD.
 tags:
 - HA
 date: "2019-11-01T00:00:00Z"
