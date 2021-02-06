@@ -1,6 +1,6 @@
 ---
 title: Topic-Modelling for Depression Markers
-summary: The Machine learning based research study aims at examining and monitoring the various depression markers by analyzing the tweets of self-declared depression patients on Twitter
+summary: The Machine learning based research study aims at examining and monitoring the various depression markers by analyzing the tweets of self-declared depression patients on Twitter. Temporal analysis of pre and post diagnosis of depressed individuals.
 tags:
 - NLP
 - HA
