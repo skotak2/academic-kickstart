@@ -1,6 +1,7 @@
 ---
 title: Package Pricing At Mission Hospital
 summary: Built the Predictive Model to estimate the price of treatment given the clinical factors at the time of admission. Feature engineering of clinical factors to identify portential predictors for the price estimate.
+tags:
 - HA
 date: "2019-11-01T00:00:00Z"
 
