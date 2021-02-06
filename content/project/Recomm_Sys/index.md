@@ -13,6 +13,9 @@ tags:
   - Deployment
 external_link: https://github.com/skotak2/Review-Based-Recommendation-System
 url_slides: ""
+categories:
+  - NLP
+  - Deployment
 links:
   - icon: github
     icon_pack: fab fa-github
