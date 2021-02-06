@@ -1,6 +1,6 @@
 ---
 title: English to Telugu Translator
-summary: REST API to convert Kannada sentences to English using Seq2Seq model. Deployed the transalation model on Google Cloud using cloud functions.
+summary: REST API to convert Kannada sentences to English using Seq2Seq Nueral Network model. Deployed the transalation model on Google Cloud using cloud functions. The transaltion model is implemented using PyTorch.
 tags:
 - NLP
 - Deep Learning
