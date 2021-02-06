@@ -28,6 +28,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "HealthCare Analytics"
     tag = "HA"
+    
+  [[content.filter_button]]
+    name = "Churn Analytics"
+    tag = "CA"
  
   [[content.filter_button]]
     name = "Deep Learning"
