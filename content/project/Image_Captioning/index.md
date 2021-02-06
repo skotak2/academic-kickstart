@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/iamvippi
+  url: https://github.com/skotak2/Image-Captioning-With-Visual-Attention-Mechanism
 url_code: ""
 url_pdf: ""
 url_slides: ""
