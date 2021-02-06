@@ -14,7 +14,7 @@ image:
 
 links:
 - icon: github
-  icon_pack: fab
+  icon_pack: fab fa-github
   name: Follow
   url: https://github.com/skotak2/Image-Captioning-With-Visual-Attention-Mechanism
 url_code: ""
