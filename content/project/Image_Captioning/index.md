@@ -1,6 +1,6 @@
 ---
 title: Image Captioning With Visual Attention
-summary: "CNN Encoder - RNN(LSTM & GRU) decoder model for captioning an image with visual attention mechanism. "
+summary: "CNN Encoder - RNN(LSTM & GRU) Decoder model for captioning an image with visual attention mechanism. Building encoder-decoder models with global and local attention mechanism"
 tags:
 - Deep Learning
 date: "2020-02-20T00:00:00Z"
