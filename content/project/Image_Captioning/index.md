@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
   name: Follow
   url: https://github.com/skotak2/Image-Captioning-With-Visual-Attention-Mechanism
