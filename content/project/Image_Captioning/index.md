@@ -18,8 +18,8 @@ image:
 links:
 - icon: github
   icon_pack: fab fa-github
-  name: Follow
-  url: https://github.com/skotak2/Image-Captioning-With-Visual-Attention-Mechanism
+  name: Code
+  url: https://github.com/skotak2/Image-Captioning-With-Visual-Attention-Mechanism/tree/main/Code
 url_code: ""
 url_pdf: ""
 url_slides: ""
