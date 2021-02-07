@@ -17,8 +17,8 @@ image:
 links:
 - icon: github
   icon_pack: fab fa-github
-  name: Follow
-  url: https://github.com/skotak2/Seq2Seq-Machine-Translation-Model-Kannada-to-English
+  name: Code
+  url: https://github.com/skotak2/Seq2Seq-Machine-Translation-Model-Kannada-to-English/tree/main/Code
 url_code: ""
 url_pdf: ""
 url_slides: ""
