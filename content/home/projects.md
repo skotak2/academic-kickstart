@@ -26,7 +26,7 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "HealthCare Analytics"
+    name = "Healthcare Analytics"
     tag = "HA"
     
  
