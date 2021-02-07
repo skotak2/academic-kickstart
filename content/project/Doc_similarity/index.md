@@ -15,8 +15,8 @@ image:
 links:
 - icon: github
   icon_pack: fab fa-github
-  name: Follow
-  url: https://github.com/skotak2/Finding-Similarities-between-the-textual-documents
+  name: Code
+  url: https://github.com/skotak2/Finding-Similarities-between-the-textual-documents/tree/master/Code
 url_code: ""
 url_pdf: ""
 url_slides: ""
