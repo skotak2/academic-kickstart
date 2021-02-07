@@ -19,9 +19,8 @@ categories:
 links:
   - icon: github
     icon_pack: fab fa-github
-    name: Follow
-    url: https://github.com/skotak2/Review-Based-Recommendation-System
-image:
+    name: Code
+    url: https://github.com/skotak2/Review-Based-Recommendation-System/tree/main/Code
   caption: null
   focal_point: Smart
   preview_only: true
