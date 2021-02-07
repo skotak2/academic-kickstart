@@ -49,9 +49,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/skotak2
-# icon: cv
-#  icon_pack: ai
-#  link: https://vipanchikatthula.github.io/files/resume.pdf #files/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://github.com/skotak2/academic-kickstart/blob/master/static/files/MyResume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
