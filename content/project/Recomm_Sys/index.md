@@ -17,12 +17,19 @@ categories:
   - NLP
   - Deployment
 links:
-  - icon: github
-    icon_pack: fab fa-github
-    name: Code
-    url: https://github.com/skotak2/Review-Based-Recommendation-System/tree/main/Code
-  caption: null
-  focal_point: Smart
-  preview_only: true
+- icon: github
+  icon_pack: fab fa-github
+  name: Code
+  url: https://github.com/skotak2/Review-Based-Recommendation-System/tree/main/Code
 url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
 ---
