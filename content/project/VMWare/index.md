@@ -14,7 +14,7 @@ image:
 
 links:
 - icon: github
-  icon_pack: fab fa github
+  icon_pack: fab fa-github
   name: Code
   url: https://github.com/skotak2/Predictive-Modelling-For-Customer-Engagement-At-VMware/tree/main/Code
 url_code: ""
