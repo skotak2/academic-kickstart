@@ -15,8 +15,8 @@ image:
 links:
 - icon: github
   icon_pack: fab fa-github
-  name: Follow
-  url: https://github.com/skotak2/Package-Pricing-At-Mission-Hospital
+  name: Code
+  url: https://github.com/skotak2/Package-Pricing-At-Mission-Hospital/tree/main/Code
 url_code: ""
 url_pdf: ""
 url_slides: ""
