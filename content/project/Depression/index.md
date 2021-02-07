@@ -17,8 +17,8 @@ image:
 links:
 - icon: github
   icon_pack: fab fa-github
-  name: Follow
-  url: https://github.com/skotak2/Topic-Modelling-For-Depression-Markers
+  name: Code
+  url: https://github.com/skotak2/Topic-Modelling-For-Depression-Markers/tree/Dragon/Code
 url_code: ""
 url_pdf: ""
 url_slides: ""
