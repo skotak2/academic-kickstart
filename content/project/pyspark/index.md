@@ -16,8 +16,8 @@ image:
 links:
 - icon: github
   icon_pack: fab fa-github
-  name: Follow
-  url: https://twitter.com/iamvippi
+  name: Code
+  url: https://github.com/VipanchiKatthula/PySpark_OperationsOnAmazonTweets/blob/master/PySpark_Operations_on_Amazon_Tweets.ipynb
 url_code: ""
 url_pdf: ""
 url_slides: ""
