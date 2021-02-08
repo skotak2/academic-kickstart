@@ -65,7 +65,7 @@ subtitle = ""
 
 [[feature]]
   icon = "robot"
-  icon_pack = "fab fa-robot"
+  icon_pack = "fas fa-robot"
   name = "AI/ML"
   description = "" 
 
