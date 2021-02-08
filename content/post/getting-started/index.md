@@ -122,4 +122,4 @@ This study focused on demonstrating the progression of various symptoms and char
 - Greenglass, E., Fiksenbaum, L., & Eaton, J. (2006). The relationship between coping, social support, functional disability and depression in the elderly. Anxiety, Stress, and Coping, 19(1), 15–31. Gruda, D., & Hasan, S. (2019). Feeling anxious? Perceiving anxiety in tweets using machine learning. Computers in Human Behavior, 98, 245–255
 
 ## CREDITS 
-This project was done in collaboration with one of my peers in academics and check out some of his works [here] https://github.com/abhilashhn1993
+This project was done in collaboration with one of my peers in academics and check out some of his works [here](https://github.com/abhilashhn1993)
