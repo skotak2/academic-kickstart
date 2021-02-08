@@ -28,24 +28,5 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Implement Data Solutions using Azure Cloud Platform "
 
-[[item]]
-  organization = "Rice University"
-  organization_url = "https://www.coursera.org/learn/hypothesis-testing-confidence-intervals"
-  title = "Business Statistics And Analysis"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/verify/XQULSFKK9XFG"
-  date_start = "2019"
-  date_end = ""
-  description = "Basic Data Descriptors Statistical Distributions and Application to Business Decisions"
-
-[[item]]
-  organization = "Rice University"
-  organization_url = "https://www.coursera.org/learn/descriptive-statistics-statistical-distributions-business-application"
-  title = "Business Statistics And Analysis"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/verify/583FH9LBCHSC"
-  date_start = "2019"
-  date_end = ""
-  description = "Business Applications of Hypothesis Testing and Confidence Interval Estimation"
 
 +++
