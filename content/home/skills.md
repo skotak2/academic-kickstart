@@ -48,5 +48,16 @@ subtitle = ""
   name = "Azure Cloud"
   description = "" 
 
+[[feature]]
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "Azure Cloud"
+  description = "" 
+
+[[feature]]
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "Azure Cloud"
+  description = "" 
   
 +++
