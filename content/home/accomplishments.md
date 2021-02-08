@@ -23,37 +23,37 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.youracclaim.com/badges/a81fc125-25a8-4491-a778-116c0fc090e4/public_url
+- certificate_url: "https://www.youracclaim.com/badges/a81fc125-25a8-4491-a778-116c0fc090e4/public_url"
   date_end: ""
-  date_start: 
+  date_start: ""
   description: ""
-  organization: Microsoft
-  organization_url: https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200
-  title: Azure Data Engineering Associate
+  organization: "Microsoft"
+  organization_url: "https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200"
+  title: "Azure Data Engineering Associate"
   url: ""
-- certificate_url: https://www.youracclaim.com/badges/212a20d1-8fa1-4da4-8f4d-aecaff47028f/public_url
+- certificate_url: "https://www.youracclaim.com/badges/212a20d1-8fa1-4da4-8f4d-aecaff47028f/public_url"
   date_end: ""
   date_start: "2018-03-01"
   description: ""
-  organization: IBM
-  organization_url: https://www.coursera.org/learn/python-for-applied-data-science-ai
-  title: Python for Data Science
+  organization: "IBM"
+  organization_url: "https://www.coursera.org/learn/python-for-applied-data-science-ai"
+  title: "Python for Data Science"
   url: ""
-- certificate_url: https://www.coursera.org/account/accomplishments/verify/583FH9LBCHSC
+- certificate_url: "https://www.coursera.org/account/accomplishments/verify/583FH9LBCHSC"
   date_end: ""
   date_start: ""
   description: ""
-  organization: Rice University
-  organization_url: https://www.coursera.org/learn/hypothesis-testing-confidence-intervals
+  organization: "Rice University"
+  organization_url: "https://www.coursera.org/learn/hypothesis-testing-confidence-intervals"
   title: 'Business Statistics and Analysis' 
   url: ""
  
-- certificate_url: https://www.coursera.org/account/accomplishments/verify/XQULSFKK9XFG
+- certificate_url: "https://www.coursera.org/account/accomplishments/verify/XQULSFKK9XFG"
   date_end: ""
   date_start: ""
   description: ""
-  organization: Rice University
-  organization_url: https://www.coursera.org/learn/descriptive-statistics-statistical-distributions-business-application
+  organization: "Rice University"
+  organization_url: "https://www.coursera.org/learn/descriptive-statistics-statistical-distributions-business-application"
   title: 'Business Statistics and Analysis'
   url: ""
 ---
