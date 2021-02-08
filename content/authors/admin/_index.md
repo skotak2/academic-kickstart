@@ -49,6 +49,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/skotak2
+- icon: linkedin
+  icon_pack: fab fa-linkedin
+  link: https://www.linkedin.com/in/suhaskotaki/
 - icon: cv
   icon_pack: ai
   link: https://github.com/skotak2/academic-kickstart/blob/master/static/files/MyResume.pdf
