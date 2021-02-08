@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Azure Data Engineering Associate"
   url = ""
   certificate_url = "https://www.youracclaim.com/earner/earned/badge/a81fc125-25a8-4491-a778-116c0fc090e4"
-  date_start = "2021"
+  date_start = ""
   date_end = ""
   description = "Implement Data Solutions using Azure Cloud Platform "
 
