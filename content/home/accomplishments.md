@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://www.coursera.org/account/accomplishments/verify/583FH9LBCHSC"
   date_start = "2019"
-  date_end = ''
+  date_end = ""
   description = "Business Applications of Hypothesis Testing and Confidence Interval Estimation"
 
 +++
