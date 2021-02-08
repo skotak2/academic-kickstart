@@ -23,28 +23,37 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.youracclaim.com/badges/a81fc125-25a8-4491-a778-116c0fc090e4/public_url
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: 
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Microsoft
+  organization_url: https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200
+  title: Azure Data Engineering Associate
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.youracclaim.com/badges/212a20d1-8fa1-4da4-8f4d-aecaff47028f/public_url
   date_end: ""
   date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  organization: IBM
+  organization_url: https://www.coursera.org/learn/python-for-applied-data-science-ai
+  title: Python for Data Science
+  url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/583FH9LBCHSC
+  date_end: ""
+  date_start: ""
+  description: ""
+  organization: Rice University
+  organization_url: https://www.coursera.org/learn/hypothesis-testing-confidence-intervals
+  title: 'Business Statistics and Analysis' 
+  url: ""
+ 
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/XQULSFKK9XFG
+  date_end: ""
+  date_start: ""
+  description: ""
+  organization: Rice University
+  organization_url: https://www.coursera.org/learn/descriptive-statistics-statistical-distributions-business-application
+  title: 'Business Statistics and Analysis'
   url: ""
 ---
