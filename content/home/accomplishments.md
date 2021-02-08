@@ -24,28 +24,28 @@ date_format = "Jan 2006"
   title = "Azure Data Engineering Associate"
   url = ""
   certificate_url = "https://www.youracclaim.com/earner/earned/badge/a81fc125-25a8-4491-a778-116c0fc090e4"
-  date_start = "2021-02-01"
+  date_start = "2021
   date_end = ""
   description = "Implement Data Solutions using Azure Cloud Platform "
 
 [[item]]
-  organization = "Udacity"
-  organization_url = "https://www.udacity.com/"
-  title = "A/B Testing"
+  organization = "Rice University"
+  organization_url = "https://www.coursera.org/learn/hypothesis-testing-confidence-intervals"
+  title = "Business Statistics And Analysis"
   url = ""
-  certificate_url = ""
-  date_start = "2020-07-15"
+  certificate_url = ""https://www.coursera.org/account/accomplishments/verify/XQULSFKK9XFG""
+  date_start = "2019
   date_end = ""
-  description = "Design experiments, analyze results and draw significant conclusions"
+  description = "Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions"
 
 [[item]]
-  organization = "Alteryx"
-  organization_url = "https://www.alteryx.com/"
-  title = "Alteryx Advanced"
+  organization = "Rice University"
+  organization_url = "https://www.coursera.org/learn/descriptive-statistics-statistical-distributions-business-application"
+  title = "Business Statistics And Analysis"
   url = ""
-  certificate_url = "https://s3.us-east-2.amazonaws.com/ayx.certificates/20190717_AlterxDesignerAdvanced0U9UMRUT2E1VapHboVdW120V0RaJjRtJmaWdkW2klVhdnRtJmaodVT1RatGbu9ENJpnT.pdf"
-  date_start = "2019-07-17"
-  date_end = "2021-07-17"
-  description = "Data Pipelining and advanced ETL"
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/583FH9LBCHSC"
+  date_start = "2019"
+  date_end = ''
+  description = "Business Applications of Hypothesis Testing and Confidence Interval Estimation"
 
 +++
