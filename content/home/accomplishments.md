@@ -1,4 +1,4 @@
-+++
+---
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -57,7 +57,5 @@ date_format = "Jan 2006"
   date_start = ""
   date_end = ""
   description = "Business Applications of Hypothesis Testing and Confidence Interval Estimation"
-
-
-+++
+---
 
