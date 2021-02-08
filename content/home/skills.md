@@ -48,15 +48,5 @@ subtitle = ""
   name = "Azure Cloud"
   description = "" 
 
-[[feature]]
-  icon = "machine-learning"
-  icon_pack = "fab"
-  name = "Azure Cloud"
-  description = ""
   
-[[feature]]
-  icon = "charts"
-  icon_pack = "fab"
-  name = "Statistics"
-  description = ""
 +++
