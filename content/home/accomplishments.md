@@ -1,59 +1,63 @@
----
-# An instance of the Accomplishments widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: accomplishments
++++
+# Accomplishments widget.
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 80  # Order that this section will appear.
 
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 50
-
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
-subtitle:
+title = "Certifications"
+subtitle = ""
 
 # Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
 
 # Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
-- certificate_url: "https://www.youracclaim.com/badges/a81fc125-25a8-4491-a778-116c0fc090e4/public_url"
-  date_end: ""
-  date_start: ""
-  description: ""
-  organization: "Microsoft"
-  organization_url: "https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200"
-  title: "Azure Data Engineering Associate"
-  url: ""
-- certificate_url: "https://www.youracclaim.com/badges/212a20d1-8fa1-4da4-8f4d-aecaff47028f/public_url"
-  date_end: ""
-  date_start: "2018-03-01"
-  description: ""
-  organization: "IBM"
-  organization_url: "https://www.coursera.org/learn/python-for-applied-data-science-ai"
-  title: "Python for Data Science"
-  url: ""
-- certificate_url: "https://www.coursera.org/account/accomplishments/verify/583FH9LBCHSC"
-  date_end: ""
-  date_start: ""
-  description: ""
-  organization: "Rice University"
-  organization_url: "https://www.coursera.org/learn/hypothesis-testing-confidence-intervals"
-  title: 'Business Statistics and Analysis' 
-  url: ""
- 
-- certificate_url: "https://www.coursera.org/account/accomplishments/verify/XQULSFKK9XFG"
-  date_end: ""
-  date_start: ""
-  description: ""
-  organization: "Rice University"
-  organization_url: "https://www.coursera.org/learn/descriptive-statistics-statistical-distributions-business-application"
-  title: 'Business Statistics and Analysis'
-  url: ""
----
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "Microsoft"
+  organization_url = "https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200"
+  title = "Azure Data Engineer"
+  url = ""
+  certificate_url = "https://www.youracclaim.com/earner/earned/badge/a81fc125-25a8-4491-a778-116c0fc090e4"
+  date_start = ""
+  date_end = ""
+  description = "Implement Data Solutions using Azure cloud platform"
+
+[[item]]
+  organization = "Rice University"
+  organization_url = "https://www.coursera.org/learn/hypothesis-testing-confidence-intervals"
+  title = "Business statistics and analysis"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/XQULSFKK9XFG"
+  date_start = ""
+  date_end = ""
+  description = "Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions"
+
+[[item]]
+  organization = "Rice University"
+  organization_url = "https://www.coursera.org/learn/descriptive-statistics-statistical-distributions-business-application"
+  title = "Business statistics and analysis"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/583FH9LBCHSC"
+  date_start = ""
+  date_end = ""
+  description = "Business Applications of Hypothesis Testing and Confidence Interval Estimation"
+
+[[item]]
+  organization = "IBM"
+  organization_url = "https://www.youracclaim.com/organizations/ibm/badges"
+  title = "Python for Data Science"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/583FH9LBCHSC"
+  date_start = ""
+  date_end = ""
+  description = "Business Applications of Hypothesis Testing and Confidence Interval Estimation"
+
+
++++
+
