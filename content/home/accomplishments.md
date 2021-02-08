@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Tableau"
-  organization_url = "https://www.tableau.com/"
-  title = "Tableau Desktop Specialist"
+  organization = "Microsoft"
+  organization_url = "https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200"
+  title = "Azure Data Engineering Associate"
   url = ""
-  certificate_url = "https://www.youracclaim.com/badges/d080260a-4c34-4056-ab92-6f76340a64d0/public_url"
-  date_start = "2020-08-06"
+  certificate_url = "https://www.youracclaim.com/earner/earned/badge/a81fc125-25a8-4491-a778-116c0fc090e4"
+  date_start = "2021-02-01"
   date_end = ""
-  description = "Advanced data visualizations and deeper understanding of Tableau"
+  description = "Implement Data Solutions using Azure Cloud Platform "
 
 [[item]]
   organization = "Udacity"
