@@ -1,4 +1,4 @@
----
++++
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -19,43 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Microsoft"
-  organization_url = "https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200"
-  title = "Azure Data Engineer"
+  organization = "Tableau"
+  organization_url = "https://www.tableau.com/"
+  title = "Tableau Desktop Specialist"
   url = ""
-  certificate_url = "https://www.youracclaim.com/earner/earned/badge/a81fc125-25a8-4491-a778-116c0fc090e4"
-  date_start = ""
+  certificate_url = "https://www.youracclaim.com/badges/d080260a-4c34-4056-ab92-6f76340a64d0/public_url"
+  date_start = "2020-08-06"
   date_end = ""
-  description = "Implement Data Solutions using Azure cloud platform"
+  description = "Advanced data visualizations and deeper understanding of Tableau"
 
 [[item]]
-  organization = "Rice University"
-  organization_url = "https://www.coursera.org/learn/hypothesis-testing-confidence-intervals"
-  title = "Business statistics and analysis"
+  organization = "Udacity"
+  organization_url = "https://www.udacity.com/"
+  title = "A/B Testing"
   url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/verify/XQULSFKK9XFG"
-  date_start = ""
+  certificate_url = ""
+  date_start = "2020-07-15"
   date_end = ""
-  description = "Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions"
+  description = "Design experiments, analyze results and draw significant conclusions"
 
 [[item]]
-  organization = "Rice University"
-  organization_url = "https://www.coursera.org/learn/descriptive-statistics-statistical-distributions-business-application"
-  title = "Business statistics and analysis"
+  organization = "Alteryx"
+  organization_url = "https://www.alteryx.com/"
+  title = "Alteryx Advanced"
   url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/verify/583FH9LBCHSC"
-  date_start = ""
-  date_end = ""
-  description = "Business Applications of Hypothesis Testing and Confidence Interval Estimation"
+  certificate_url = "https://s3.us-east-2.amazonaws.com/ayx.certificates/20190717_AlterxDesignerAdvanced0U9UMRUT2E1VapHboVdW120V0RaJjRtJmaWdkW2klVhdnRtJmaodVT1RatGbu9ENJpnT.pdf"
+  date_start = "2019-07-17"
+  date_end = "2021-07-17"
+  description = "Data Pipelining and advanced ETL"
 
-[[item]]
-  organization = "IBM"
-  organization_url = "https://www.youracclaim.com/organizations/ibm/badges"
-  title = "Python for Data Science"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/verify/583FH9LBCHSC"
-  date_start = ""
-  date_end = ""
-  description = "Business Applications of Hypothesis Testing and Confidence Interval Estimation"
----
-
++++
