@@ -33,8 +33,8 @@ date_format = "Jan 2006"
   organization_url = "https://www.coursera.org/learn/hypothesis-testing-confidence-intervals"
   title = "Business Statistics And Analysis"
   url = ""
-  certificate_url = ""https://www.coursera.org/account/accomplishments/verify/XQULSFKK9XFG""
-  date_start = "2019
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/XQULSFKK9XFG"
+  date_start = "2019"
   date_end = ""
   description = "Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions"
 
