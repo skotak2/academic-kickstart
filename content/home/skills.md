@@ -15,6 +15,42 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL Server"
+  description = ""
+
+[[feature]]
+  icon = "server"
+  icon_pack = "fas fa-server"
+  name = "Big Data, PySpark"
+  description = ""
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = ""
+
+[[feature]]
+  icon = "toolbox"
+  icon_pack = "fas fa-toolbox"
+  name = "Alteryx"
+  description = ""
+
+[[feature]]
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "Tableau"
+  description = "" 
+
+[[feature]]
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "Azure Cloud"
+  description = "" 
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
@@ -25,39 +61,19 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
   description = ""  
-  
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = ""
-  
-[[feature]]
-  icon = "chalkboard-teacher"
-  icon_pack = "fas"
-  name = "Tableau"
-  description = ""  
-[[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "SQL Server, Hadoop"
-  description = "" 
-[[feature]]
-  icon = "microsoft"
-  icon_pack = "fab"
-  name = "Azure Cloud"
-  description = "" 
+   
 
 [[feature]]
-  icon = "microsoft"
+  icon = "robot"
   icon_pack = "fab"
-  name = "Azure Cloud"
+  name = "AI/ML"
   description = "" 
 
-[[feature]]
-  icon = "microsoft"
-  icon_pack = "fab"
-  name = "Azure Cloud"
-  description = "" 
+
+
+
+
+
+
   
 +++
