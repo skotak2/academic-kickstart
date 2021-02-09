@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2021-02-03"
   date_end = ""
   description = """
-• Performed business requirement gathering and explored the current data generating systems for data gathering task.<br />
-• Designed the plan for implementing CNN - RNN based image captioning system for the business use case.
+• Collaborated with domain experts to define business objectives and explored the concept of risk assessment at construction sites.<br />
+• Designed the project plan for implementing image captioning system to detect accident prone areas.<br />
   """
 [[experience]]
   title = "Data Science - Intern (Co-op)"
