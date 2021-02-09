@@ -16,7 +16,7 @@ links:
 - icon: github
   icon_pack: fab fa-github
   name: Code
-  url: https://github.com/skotak2/Factors-Causing-Chronic-Kidney-Disease/tree/main/Code
+  url: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
