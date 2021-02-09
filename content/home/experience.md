@@ -80,7 +80,7 @@ date_format = "Jan 2006"
   description = """
 • Designed and implemented business intelligence platforms. Developed the schema for fact & dimension tables and loaded the data using IBM DataStage from the source systems.<br />
 • optimized the runtime of complex SQL queries and worked on appropriate indexing methods. <br />
-• **Key Achievement**: Designed interactive Cognos decision dashboards for understanding the customer churn of the Telecom Products. Identified factors influencing salses worth $1.6 billion dollars.<br />
+• Designed interactive Cognos decision dashboards for understanding the customer churn of the Telecom Products. Identified factors influencing salses worth $1.6 billion dollars.<br />
   """
 
 +++
