@@ -66,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a passionate Data Science and Date Engineering professional with 3+ years of experience, currently pursuing Masters in Business Analytics at **University of Illinois at Chicago**. I enjoy working with data to derive business insights and build on predictive models. I am interested in working on efficient data engineering solutions for the AI/ML applications.
+I'm a passionate Data Science and Data Engineering professional with 3+ years of experience, currently pursuing Masters in Business Analytics at **University of Illinois at Chicago**. I enjoy working with data to derive business insights and build predictive models. I am interested in working on efficient data engineering solutions for AI/ML applications.
 
 I love working on [innovative projects](https://github.com/skotak2) and developing [applications](https://github.com/skotak2/Review-Based-Recommendation-System) for business use. I enjoy watching Formula 1, reading books and watching TV shows in my free time.
