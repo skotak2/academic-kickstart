@@ -21,10 +21,11 @@ organizations:
 bio: Data Science and Date Engineering professional with 3+ years of experience in building analytical platforms for business systems. 
 
 interests:
-- Health Care Analytics
+
 - Data Engineering
-- Machine Learning
+- Health Care Analytics
 - Artificial Intelligence
+- Machine Learning
 
 education:
   courses:
