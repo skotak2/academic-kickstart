@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2021-02-03"
   date_end = ""
   description = """
-• Collaborated with domain experts to define business objectives and explored the concept of risk assessment at construction sites.<br />
+• Collaborated with domain experts and explored the concept of risk assessment at construction sites.<br />
 • Designed the project plan for implementing image captioning system to detect accident prone areas.<br />
   """
 [[experience]]
