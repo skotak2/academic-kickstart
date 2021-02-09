@@ -15,15 +15,15 @@ image:
   caption: 
   focal_point: Smart
 
-links:
-- icon: github
-  icon_pack: fab fa-github
-  name: Code
-  url: https://github.com/skotak2/Image-Captioning-With-Visual-Attention-Mechanism/tree/main/Code
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#links:
+#- icon: github
+#  icon_pack: fab fa-github
+#  name: Code
+#  url: https://github.com/skotak2/Image-Captioning-With-Visual-Attention-Mechanism/tree/main/Code
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
