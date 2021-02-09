@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
 • Performed business requirement gathering and explored the current data generating systems for data gathering task.<br />
 • Designed the plan for implementing CNN - RNN based image captioning system for the business use case.
-
+  """
 [[experience]]
   title = "Data Science - Intern (Co-op)"
   company = "Oncocare Analytics LLC (Former Bluerock Healthcare)"
@@ -53,7 +53,6 @@ date_format = "Jan 2006"
 • Assisted Professor Ranganath Chandrashekaran at UIC in pioneering the concept of "analyzing linguistic depression markers using Social Media".  <br />
 • Orchestrated data piplines to extract Twitter data of self-declared depression candidates. Deployed Azure Face API and M3 instance into the pipeline to extract user attributes like age and gender. <br />
 • Performed Feature engineerng and data preparation following the case-cross over study design. Built the model using conditional logistic regression to depict the depression characteristic changes over time. <br />
- 
   """
 
 [[experience]]
