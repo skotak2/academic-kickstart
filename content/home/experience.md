@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   description = """
 • Spearheaded the development of predictive models and analytical platforms for healthcare providers to improve patient experience with value-based care.<br /> 
 • Explored variables like DRG codes, HCPCS codes, cancer types, comorbidities, and re-hospitalization. <br />
-• Built end-to-end pipelines for data transformations using Alteryx. Performed visualization of patient claims using Tableau. Analyzed for trends in hospitalization, treatment expenditures and resource utilization. <br />
-• Performed feature engineering and predictive modelling to identify candidates with high resource utilization based on patient claims. Built cox regression model to predict mortality based on disease characteristics. <br /> 
+• Built end-to-end pipelines for data transformations using Alteryx. Performed visualization of patient claims using Tableau. Analyzed for trends in hospitalization and treatment expenditures. <br />
+• Developed predictive modelsto identify candidates with high resource utilization based on patient claims. Built cox regression model to predict mortality based on disease characteristics. <br /> 
 • Provided analytical consulting for best practices, tools, and technologies. <br />
   """
 
