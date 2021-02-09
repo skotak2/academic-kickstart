@@ -39,21 +39,21 @@ date_format = "Jan 2006"
 • Spearheaded the development of predictive models and analytical platforms for healthcare providers to improve patient experience with value-based care.<br /> 
 • Explored variables like DRG codes, HCPCS codes, cancer types, comorbidities, and re-hospitalization. <br />
 • Built end-to-end pipelines for data transformations using Alteryx. Performed visualization of patient claims using Tableau. Analyzed for trends in expenditure of drugs and hospitalization. <br />
-• Developed predictive modelsto identify candidates with high resource utilization based on patient claims. Built cox regression model to predict mortality based on disease characteristics. <br /> 
+• Developed predictive models to identify candidates with high resource utilization based on patient claims. Built cox regression model to predict mortality based on disease characteristics. <br /> 
 • Provided analytical consulting for best practices, tools, and technologies. <br />
   """
 
 [[experience]]
   title = "Research Assistant"
-  company = "University of Illinois,Chicago"
+  company = "University of Illinois, Chicago"
   company_url = "https://business.uic.edu/profiles/chandrasekaran-ranganathan/"
   location = "Chicago"
   date_start = "2019-05-15"
   date_end = "2020-07-30"
   description = """
-• Assisted Professor Ranganath Chandrashekaran at UIC in pioneering the concept of "analyzing linguistic depression markers using Social Media".  <br />
-• Orchestrated data piplines to extract Twitter data of self-declared depression candidates. Deployed Azure Face API and M3 instance into the pipeline to extract user attributes like age and gender. <br />
-• Performed Feature engineerng and data preparation following the case-cross over study design. Built the model using conditional logistic regression to depict the depression characteristic changes over time. <br />
+• Assisted Professor Ranganathan Chandrasekaran at UIC in pioneering the concept of "Analyzing linguistic depression markers using Social Media".<br />
+• Orchestrated data pipelines to extract Twitter data of self-declared depression candidates. Deployed Azure Face API and M3 instance into the pipeline for extracting user attributes like age and gender.<br />
+• Performed feature selection by extracting Latent Variables using Anchored-Corex algorithm. Built the model using Conditional logistic regression to depict the difference in depression characteristics over time.<br />
   """
 
 [[experience]]
@@ -64,9 +64,9 @@ date_format = "Jan 2006"
   date_start = "2018-03-01"
   date_end = "2019-08-01"
   description = """
-• Collaborated closely with the Voice Team of American Express. Developed and maintained buiness intellengce platforms for customer contact management centers.<br />
-• Delivered business insights on performance of predictive dialers of different market. Built interactive reporting dashboards for analyzing KPI metrics.<br />
-• Developed ETL jobs using SSIS and loaded the datamarts with data from source systems in heterogenous formats. Built data piplines using python for reporting health check of business intellengce platforms.
+• Collaborated closely with the Voice Utility Team of American Express. Developed and maintained Data warehouse for customer contact management centers. <br />
+• Delivered business insights on performance of predictive dialers. Built interactive reporting dashboards for analyzing KPIs. <br />
+• Developed ETL jobs using SSIS and loaded the data mart with data from source systems in heterogenous formats. Built data pipelines using python for monitoring business intelligence systems.
 • Provided on-call support for deployments and production outages.
   """
   
@@ -78,10 +78,9 @@ date_format = "Jan 2006"
   date_start = "2017-02-09"
   date_end = "2018-03-01"
   description = """
-• Designed and implemented datamart for the business intellengce platforms. Designed the schema and created fact - dimension tables using IBM Datastage from the source systems.<br />
-• Performed optimization of runtime of complex SQL queries and worked on appropriate indexing methods. <br />
-• Completed Intial Learning Program of TCS in Buisness Intelligence and Performance Management module.
-• **Key Achievement**: Designed interactive Cognos decision dashboards for understanding the customer churn of the Telecom Products. Identified factors influencing salses worth $1.6 billion dollars. 
+• Designed and implemented business intelligence platforms. Developed the schema for fact & dimension tables and loaded the data using IBM DataStage from the source systems.<br />
+• optimized the runtime of complex SQL queries and worked on appropriate indexing methods. <br />
+• **Key Achievement**: Designed interactive Cognos decision dashboards for understanding the customer churn of the Telecom Products. Identified factors influencing salses worth $1.6 billion dollars.<br />
   """
 
 +++
